@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# File path
+file_path="/etc/passwd"
+
+# Check if the file exists
+if [ -e "$file_path" ]; then
+  # Read the file line by line
+  while IFS=":" read -r username _ uid gid info home shell; do
+    # Display the required information
+    echo "The user $username is part of the $gid gang,"\
+	    "lives in $home and rides $shell."\
+	   "$uid's place is protected by the passcode x,"\
+	   "more info about the user here: $info"
+  done < "$file_path"
+else
+  echo "File does not exist."
+fi
