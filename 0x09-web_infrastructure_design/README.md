@@ -61,26 +61,27 @@ Participants are reminded of the strict prohibition against plagiarism. Solution
 
 Design a one-server web infrastructure with a LAMP stack. Explain the components, their roles, and identify issues.
 
-- [Task 0 Screenshot](https://imgur.com/a/ijlWNOO)
-- [Task 0 explanation]()
+- [Task 0 Screenshot](https://imgbox.com/UuwLYhOw)
+- [Task 0 explanation](https://imgbox.com/CrhGx8aB)
 
 #### 1. Distributed Web Infrastructure
 
 Design a three-server web infrastructure with load balancing. Explain additions, distribution algorithms, and issues.
 
-- [Task 1 Screenshot](insert_url_here)
+- [Task 1 Screenshot](https://i.imgur.com/KLsY99u.png)
 
 #### 2. Secured and Monitored Web Infrastructure
 
 Design a three-server web infrastructure with security, HTTPS, and monitoring. Explain additions, purposes, and issues.
 
-- [Task 2 Screenshot](insert_url_here)
+- [Task 2 Screenshot](https://imgbox.com/ZA9iaFxy)
+- [Task 2 explanation](https://imgbox.com/P1QQ9sKv)
 
 #### 3. Scale Up (Advanced)
 
 Implement a scalable infrastructure with split components and clustered load balancers. Justify additions.
 
-- [Task 3 Screenshot](insert_url_here)
+- [Task 3 Screenshot](https://i.imgur.com/BInYhRw.png)
 
 ## Conclusion
 
